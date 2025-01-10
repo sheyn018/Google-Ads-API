@@ -2,3 +2,4 @@ Flask
 google-ads
 google-auth
 google-api-core
+gunicorn
